@@ -1,0 +1,8 @@
+[
+  { "gasto_diario": { "usuario": "nick", "monto": "1232", "factura": "a" } },
+  { "gasto_semanal": { "usuario": "nicko", "monto": "12323", "factura": "a" } },
+  {
+    "gasto_mensual": { "usuario": "nicolas", "monto": "450000", "factura": "a" }
+  },
+  { "gasto_diario": { "usuario": "nicolas", "monto": "232", "factura": "a" } }
+]
