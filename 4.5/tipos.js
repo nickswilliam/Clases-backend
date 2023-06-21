@@ -1,0 +1,13 @@
+var edad = 27;
+var price = 4500;
+var cantidad = 3;
+var resultado = price * cantidad;
+var nombre = "Nicolás";
+var mensaje = "Soy ".concat(nombre, " un falopero ggg");
+console.log(mensaje.toUpperCase());
+var isValid = false;
+var valor = true;
+valor = "lkjaslj1 ";
+valor = 2134;
+valor = null;
+valor = [];
